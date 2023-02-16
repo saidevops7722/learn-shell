@@ -3,4 +3,5 @@
 shell scripting topics
 1.printing
 2.comments
-# roboshop-shell
+3.variables
+4.conditions
